@@ -1,2 +1,5 @@
-# vitepress
-vitepress template
+# Getting Started
+```bash
+$ yarn
+$ yarn dev
+```
