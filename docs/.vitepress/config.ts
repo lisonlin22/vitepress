@@ -27,7 +27,7 @@ export default defineConfig({
         // 页面脚部
         footer: {
             message: 'Released under the MIT License.',
-            copyright: 'Copyright © 2019-present Evan You'
+            copyright: '粤ICP备2023059780号-1'
         },
         // 编辑链接
         editLink: {
